@@ -31,3 +31,6 @@ This file contains the primary React component for the application.
 4. Within the return statement, the JSX code defines the component's user interface structure. It renders a `div` containing a Submit button, which calls the `fetchData` function upon clicking. If the `histogramData` state variable contains data, a `BarChart` component from the 'recharts' library is rendered. The `BarChart` component utilizes the `histogramData` as the `data` prop to display a bar chart based on the provided data. Additionally, an Export button is rendered, which invokes the `handleExport` function upon clicking.
 
 Above is the explanation for two of the components.
+
+**below is the link for the hosted project**
+https://mjid4v.csb.app/
